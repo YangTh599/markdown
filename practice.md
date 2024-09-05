@@ -11,6 +11,7 @@
 [**Python** Tutorial for ~~Pros~~ **Beginners** 🦅🦅](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 `print('magic')`
+'nano'
 
 ## About Me: **Thayer Yang**
 
