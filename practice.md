@@ -5,7 +5,9 @@
 ![alt text](new_mexico.jpg)
 
 [Go to Amazon](https://www.amazon.com/)
+
 ---
+
 [**Python** Tutorial for ~~Pros~~ **Beginners** 🦅🦅](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 `print('magic')`
