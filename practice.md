@@ -1,5 +1,5 @@
 # **Web & App Development**
-## ==Thayer Yang==
+## Thayer Yang
 ### Markdown Practice
 
 ![alt text](new_mexico.jpg)
