@@ -12,7 +12,7 @@
 
 `print('magic')`
 
-##About Me: **Thayer Yang**
+## About Me: **Thayer Yang**
 
 - I am a 2nd Gen. **Hmong** American. Hmong is a asian *ethnicity* descending from China, Laos, and Thailand.
 - I enjoy playing the *ukulele*. :musical_note:
